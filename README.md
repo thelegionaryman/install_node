@@ -14,7 +14,7 @@ git clone https://github.com/thodyssey/install_node.git
 install_node/install.sh
 ```
 
-## Prereqs:
+## Prerequisites:
 1 - be logged in as root or sudo bash
 
 ## TODO:
