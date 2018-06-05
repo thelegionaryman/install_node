@@ -413,7 +413,7 @@ echo ""
 echo "Comandos Básicos:"
 echo " - Para iniciar o node: systemctl start lunesnode"
 echo " - Para parar o node: systemctl stop lunesnode"
-echo " - Para saber o status do node: systemctl status node"
+echo " - Para saber o status do node: systemctl status lunesnode"
 echo ""
 echo "e seja bem-vindo à rede da Lunes Platform!"
 echo
