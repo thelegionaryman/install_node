@@ -1,26 +1,25 @@
-# Procedimento de Instalação
+# Installation Procedure
 
-*Considerações*
-Este script foi desenvolvido visando um ambiente novo, "do zero".
-No TODO abaixo há os próximos passos para que ele fique 100% funcional.
+*Considerations*
+This script was developed for a new environment, "from scratch".
+In ALL below there are the next steps to make it 100% functional.
 
-*Clone o repositório:*
+*Clone the repository:*
 ```bash
 git clone https://github.com/thodyssey/install_node.git
 ```
 
-*Execute o instalador:*
+*Run the installer:*
 ```bash
 install_node/install.sh
 ```
 
 ## Prereqs:
-1 - estar logado como root ou sudo bash
+1 - be logged in as root or sudo bash
 
 ## TODO:
-1. Internacionalização - Portar o script para o inglês
-2. Ajustar para que ele identifique uma versão existente e atualize somente os pacotes
-3. Revisão do código
+1. Adjust so that it identifies an existing version and updates only the packages
+2. Review of the code
 
 ## Contributing
 
