@@ -6,7 +6,7 @@ No TODO abaixo há os próximos passos para que ele fique 100% funcional.
 
 *Clone o repositório:*
 ```bash
-git clone https://github.com/Lunes-platform/install_node.git
+git clone https://github.com/thodyssey/install_node.git
 ```
 
 *Execute o instalador:*
